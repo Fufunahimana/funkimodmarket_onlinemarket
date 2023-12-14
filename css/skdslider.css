@@ -54,6 +54,7 @@
 .skdslider .slide-desc > h3 {
     color: #ffffff;
     font-size: 50px;
+	color: greenyellow;
     margin-bottom: 20px;
     padding: 10px;
     width: 54%;
@@ -144,6 +145,7 @@ text-decoration:underline;
 	}
 	.skdslider .slide-desc > h3 {
 		font-size: 38px;
+		color: greenyellow;
 	}
 	.skdslider .slide-desc {
 		bottom: 42%;
@@ -158,6 +160,7 @@ text-decoration:underline;
 	}	
 	.skdslider .slide-desc > h3 {
 		font-size: 36px;
+		color: greenyellow;
 	}
 	.skdslider .slide-desc > p {
 		width: 75%;
@@ -187,6 +190,7 @@ text-decoration:underline;
 	}
 	.skdslider .slide-desc > h3 {
 		font-size: 34px;
+		color: greenyellow;
 	}
 }
 @media (max-width: 1050px){
@@ -195,6 +199,7 @@ text-decoration:underline;
 	}
 	.skdslider .slide-desc > h3 {
 		font-size: 32px;
+		color: greenyellow;
 	}
 	.skdslider .slide-desc {
     bottom: 22%;
@@ -202,6 +207,7 @@ text-decoration:underline;
 .skdslider .slide-desc > h3 {
     width: 64%;
     line-height: 58px;
+	color: greenyellow;
 }
 }
 @media (max-width: 1024px){
@@ -210,6 +216,7 @@ text-decoration:underline;
 	}
 	.skdslider .slide-desc > h3 {
 		font-size: 30px;
+		color: greenyellow;
 	}
 }
 @media (max-width: 991px){
@@ -225,6 +232,7 @@ text-decoration:underline;
 	}
 	.skdslider .slide-desc > h3 {
     line-height: 48px;
+	color: greenyellow;
 }
 .skdslider ul.slides li img {
     width: none;

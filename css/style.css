@@ -1,8 +1,7 @@
 /*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+Author: Fufunahimana
+Author URL: https://github.com/Fufunahimana
+
 --*/
 html, body{
     font-size: 100%;
@@ -189,8 +188,8 @@ button.w3view-cart:focus{
     width: 33.33%;
 }
 .w3ls_logo_products_left h1 a{
-	font-size: 40px;
-    color: #fe9126;
+	font-size: 27px;
+    color: blue;
     text-decoration: none;
     text-transform: uppercase;
     display: block;
@@ -219,7 +218,7 @@ button.w3view-cart:focus{
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     background-color: transparent;
-	 color: #fff !important;
+	 color: blue !important;
 }
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: none;
@@ -231,7 +230,7 @@ button.w3view-cart:focus{
     border: 1px solid transparent;
 }
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
-    color: #fff;
+    color:blue;
 }
 .navbar-default {
     background: none;
@@ -242,7 +241,7 @@ button.w3view-cart:focus{
 }
 ul.multi-column-dropdown h6 {
     font-size: 20px;
-    color:#fe9126;
+    color:blue;
     margin: 0 0 0em;
     padding-bottom: 1em;
     border-bottom: 1px solid #E4E4E4;
@@ -273,16 +272,16 @@ ul.multi-column-dropdown h6 {
 }
 .nav > li > a:hover, .nav > li > a:focus {
     background: none;
-	color:#fff !important;
+	color:blue !important;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
-    color: #fff;
+    color: blue;
 }
 .multi-gd-img img {
     width: 100%;
 }
 .navigation-agileits {
-    background: #fe9126;
+    background: aquamarine;
 }
 .navbar-nav > li {
     float: left;
@@ -409,7 +408,7 @@ ul.multi-column-dropdown h6 {
     outline: none;
 }
 .agile_top_brand_left_grid:hover .snipcart-details input.button,.snipcart-details input.button:hover{
-    background: #fe9126;
+    background: blue;
 }
 .product_list_header input.button {
     color: #fff;
@@ -417,7 +416,7 @@ ul.multi-column-dropdown h6 {
     outline: none;
     text-transform: capitalize;
     padding: .5em 2.5em .5em 1em;
-    border: 1px solid #fe9126;
+    border: 1px solid aquamarine;
     margin: .35em 0 0;
     background: url(../images/cart.png) no-repeat 116px 9px;
 }
@@ -829,11 +828,11 @@ i.fa.fa-arrow-right {
 	line-height:1.8em;
 }
 .footer-copy p a{
-	color:#ff9b05;
+	color:white;
 	text-decoration:none;
 }
 .footer-copy p a:hover{
-	color:#999;
+	color:yellow;
 }
 .w3layouts-foot ul li{
 	display:inline-block;
@@ -2528,7 +2527,7 @@ h3.w3_agile_header, h2.w3_agile_header {
     padding: 12px 0 8px;
 }
 .w3ls_logo_products_left h1 a {
-    font-size: 30px;
+    font-size: 17px;
 }
 i.fa.fa-phone {
     margin-right: 7px;
